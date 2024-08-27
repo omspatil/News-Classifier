@@ -1,0 +1,2 @@
+# News Classifier
+ News Classifier is a Python and Flask-based web application that predicts whether a news article is real or fake using a Naive Bayes model. The app allows users to input news articles for classification and provides an interactive feedback mechanism to improve model accuracy over time. The project includes a balanced dataset for training and uses persistent storage for user feedback.
